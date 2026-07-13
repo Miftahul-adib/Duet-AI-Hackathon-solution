@@ -9,10 +9,10 @@
 
 ## Final Scores
 
-| Leaderboard || mAP@0.50 |
-|-------------||----------|
-| Public      || 0.62279  |
-| Private     || 0.59821  |
+| Leaderboard | mAP@0.50 |
+|-------------|----------|
+| Public      | 0.62279  |
+| Private     | 0.59821  |
 
 ---
 
