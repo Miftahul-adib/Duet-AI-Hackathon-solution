@@ -4,7 +4,7 @@
 **Task:** Multi-class vehicle detection in Bangladesh highway CCTV footage  
 **Result:** mAP@0.50 of **0.62279** (public) · **0.59821** (private) 
 
-#### Backprop_Sust selected as one of **15 finalist teams** to present at the onsite finals out of **101 registered teams**
+#### Backprop_Sust was selected as one of **15 finalist teams** to present at the onsite finals out of **101 registered teams**
 
 ---
 
