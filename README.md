@@ -1,5 +1,5 @@
 # Road Vision — DUET AI Hackathon 2025
-**Team Backprop_SUST**
+**Team Backprop_SUST** - Ranked in the top 15 out of 101 competing teams and were selected to present their solution at the final showcase.
 
 Multi-class vehicle detection from Bangladeshi CCTV footage using YOLOv8x fine-tuned on BNVD weights, with SAHI tiled inference and Weighted Boxes Fusion post-processing.
 
